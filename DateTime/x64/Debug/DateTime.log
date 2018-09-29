@@ -1,0 +1,10 @@
+﻿  DateTime.cpp
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(101): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(104): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(105): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studies\sem2\ood\project2\cse687_sayali_naval_project_2\nosqldb\datetime\datetime.cpp(106): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\studies\sem2\OOD\project2\CSE687_Sayali_Naval_Project_2\NoSqlDb\x64\Debug\DateTime.exe : fatal error LNK1120: 1 unresolved externals

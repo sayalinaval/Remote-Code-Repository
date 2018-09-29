@@ -1,0 +1,4 @@
+﻿  PayLoad.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\studies\sem2\OOD\project2\CSE687_Sayali_Naval_Project_2\NoSqlDb\Debug\XmlDocument.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\studies\sem2\OOD\project2\CSE687_Sayali_Naval_Project_2\NoSqlDb\x64\Debug\PayLoad.exe : fatal error LNK1120: 1 unresolved externals
